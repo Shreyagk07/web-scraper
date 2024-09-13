@@ -1,2 +1,2 @@
 # web-scraper
-<h2>Scraping a web using API</h2>
+<p>Scraping a web using API</p>

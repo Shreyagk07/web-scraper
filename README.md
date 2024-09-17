@@ -1,3 +1,7 @@
 # WEB-SCRAPING WITH VOICE ASSISSTANT
-<p>Scraping a web using API and by providing with voice assisstant with it. It scraps the data required from the coronavirus website that provides the data related to coronavirus cases, etc. The API of the website is collected and added to the main.py file. By installing the pacakages required for the project is been install. Using the voice assisstant, the data can be extracted from the site and read out loud by the system.</p>
+<p>This project involves developing a web scraper that extracts real-time data from a coronavirus tracking website via its API. The data includes information such as current COVID-19 cases, recoveries, and fatalities. The API is integrated into the main.py file, where all the necessary logic for data extraction is implemented.
+
+To enhance usability, the project includes a voice assistant feature, enabling users to interact with the system through voice commands. When a query is made, the voice assistant triggers the web scraper, retrieves the requested data from the API, and reads it aloud to the user. The project utilizes Python's speech recognition libraries and text-to-speech systems to handle both voice input and output, making it fully hands-free.
+
+All required dependencies for the project are managed through Python package management tools, ensuring that the system is configured correctly for web scraping, API integration, and voice interaction. This project aims to provide an efficient, user-friendly way to access and understand critical pandemic-related data through natural language commands.</p>
 
